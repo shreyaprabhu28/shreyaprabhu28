@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Prabhu</h1>
 
-<h3 align="center">DevOps Enthusiast | Java Full Stack Developer | AWS Cloud Learner |Always Learning New Technologies 🚀</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4999&pause=1000&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -28,25 +24,6 @@
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -155,6 +132,26 @@
 ---
 
 <h3 align="center">
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ⭐ Thanks for visiting my profile! ⭐
 
