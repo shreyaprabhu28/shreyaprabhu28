@@ -116,8 +116,6 @@
 
 <h3 align="center">
 
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
