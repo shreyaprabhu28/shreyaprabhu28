@@ -1,109 +1,161 @@
-# Hi 👋, I'm Shreya Prabhu
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4999&pause=1000&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Shreya Prabhu</h1>
 
+<h3 align="center">DevOps Enthusiast | Java Full Stack Developer | AWS Cloud Learner |Always Learning New Technologies 🚀</h3>
 
-Welcome to my GitHub profile!
-
-I am passionate about building scalable applications, automating deployments, and learning modern DevOps practices. I enjoy working with cloud technologies, CI/CD pipelines, containerization, and Java Full Stack development.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🌱 Currently learning **DevOps & Cloud Technologies**
+- 🎓 Computer Science Graduate
 - 💻 Java Full Stack Developer
-- ☁️ AWS Cloud Enthusiast
-- 🐳 Learning Docker & Kubernetes
-- ⚙️ Working on CI/CD using Jenkins
-- 📚 Always exploring new technologies
+- ☁️ Passionate about AWS & Cloud Computing
+- 🐳 Learning Docker, Kubernetes & DevOps
+- ⚙️ Building CI/CD Pipelines using Jenkins
+- 🌱 Currently exploring Kubernetes, Ansible & Terraform
+- 🚀 Interested in Cloud, DevOps, Full Stack Development & Automation
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
 
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
+<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,git,github,linux,docker,kubernetes,jenkins,maven,aws,vscode&perline=8"/>
 
-**Frameworks**
+</p>
 
-- Spring Boot
-- Hibernate
-- Spring MVC
-- Thymeleaf
+---
 
-**DevOps**
+# 📊 GitHub Statistics
 
-- Linux
-- Git
-- GitHub
-- Docker
-- Jenkins
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shreyaprabhu28&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎬 Book My Ticket
+
+✔ Spring Boot
+
+✔ Spring MVC
+
+✔ Hibernate
+
+✔ Thymeleaf
+
+✔ MySQL
+
+✔ Razorpay Integration
+
+✔ Cloudinary
+
+✔ QR Code Ticket Generation
+
+---
+
+## ☁️ DevOps CI/CD Pipeline
+
+✔ Jenkins
+
+✔ Docker
+
+✔ AWS EC2
+
+✔ Ansible
+
+✔ Apache Tomcat
+
+✔ Maven
+
+---
+
+## 💧 Water Quality Assessment
+
+✔ Python
+
+✔ TensorFlow
+
+✔ OpenCV
+
+✔ CNN Image Classification
+
+---
+
+## ☸ Kubernetes Deployment
+
+✔ Kubernetes
+
+✔ Docker
+
+✔ Jenkins
+
+✔ AWS EC2
+
+---
+
+# 🌱 Currently Learning
+
 - Kubernetes
-- Maven
-- Ansible
-
-**Cloud**
-
-- AWS EC2
-- IAM
-- VPC
-- S3
-
-**Database**
-
-- MySQL
+- Terraform
+- GitHub Actions
+- Advanced AWS Services
+- Monitoring & Logging
 
 ---
 
-## 🚀 Featured Projects
+# 📫 Connect With Me
 
-### 🎬 Book My Ticket
-Online Movie Ticket Booking System using Spring Boot, MySQL, Thymeleaf, Razorpay, Cloudinary and QR Code.
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/shreya-prabhu28">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### ☁️ DevOps CI/CD Pipeline
+<a href="mailto:shreyaprabhu224@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-Automated deployment using
-
-- Jenkins
-- Docker
-- AWS EC2
-- Ansible
-
----
-
-### 💧 Water Quality Assessment
-
-Machine Learning project using
-
-- Python
-- TensorFlow
-- OpenCV
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/shreya-prabhu28
-- Email: shreyaprabhu224@gmail.com 
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://komarev.com/ghpvc/?username=shreyaprabhu28&label=Profile%20Views&color=ff69b4&style=flat"/>
+
 </p>
 
-⭐ Thanks for visiting my profile!
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
