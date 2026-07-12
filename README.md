@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Prabhu</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BB239E&center=true&vCenter=true&width=900&height=60&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;AWS+Cloud+Learner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BB239E&center=true&vCenter=true&width=900&height=60&lines=DevOps+Enthusiast;Java+Full+Stack+Developer;AWS+Cloud+Learner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ---
 
