@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreya Prabhu</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4999&pause=1000&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3 align="center">Java Full Stack Developer | DevOps Enthusiast | AWS Cloud Learner | Always learning new tecnologies</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+New+Technologies+🚀" />
+</p>
 
 ---
 
@@ -8,15 +12,15 @@
 
 - 🎓 Computer Science Graduate
 - 💻 Java Full Stack Developer
-- ☁️ Passionate about AWS & Cloud Computing
+- ☁ Passionate about AWS & Cloud Computing
 - 🐳 Learning Docker, Kubernetes & DevOps
-- ⚙️ Building CI/CD Pipelines using Jenkins
-- 🌱 Currently exploring Kubernetes, Ansible & Terraform
+- ⚙ Building CI/CD Pipelines using Jenkins
+- 🌱 Exploring Kubernetes, Ansible & Terraform
 - 🚀 Interested in Cloud, DevOps, Full Stack Development & Automation
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -30,61 +34,53 @@
 
 ## 🎬 Book My Ticket
 
-✔ Spring Boot
+✅ Spring Boot
 
-✔ Spring MVC
+✅ Hibernate
 
-✔ Hibernate
+✅ Thymeleaf
 
-✔ Thymeleaf
+✅ Razorpay
 
-✔ MySQL
+✅ Cloudinary
 
-✔ Razorpay Integration
-
-✔ Cloudinary
-
-✔ QR Code Ticket Generation
+✅ QR Code Generation
 
 ---
 
-## ☁️ DevOps CI/CD Pipeline
+## ☁ DevOps CI/CD Pipeline
 
-✔ Jenkins
+✅ Jenkins
 
-✔ Docker
+✅ Docker
 
-✔ AWS EC2
+✅ AWS EC2
 
-✔ Ansible
+✅ Apache Tomcat
 
-✔ Apache Tomcat
+✅ Maven
 
-✔ Maven
+✅ Ansible
 
 ---
 
 ## 💧 Water Quality Assessment
 
-✔ Python
+✅ Python
 
-✔ TensorFlow
+✅ TensorFlow
 
-✔ OpenCV
-
-✔ CNN Image Classification
+✅ OpenCV
 
 ---
 
 ## ☸ Kubernetes Deployment
 
-✔ Kubernetes
+✅ Kubernetes
 
-✔ Docker
+✅ Docker
 
-✔ Jenkins
-
-✔ AWS EC2
+✅ Jenkins
 
 ---
 
@@ -93,47 +89,62 @@
 - Kubernetes
 - Terraform
 - GitHub Actions
-- Advanced AWS Services
 - Monitoring & Logging
+- AWS Services
+
+---
+
+# 📜 Certifications
+
+🏅 Java Full Stack Internship - JSpiders
+
+🏅 DevOps Training
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/shreya-prabhu28">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:shreyaprabhu224@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="shreyaprabhu224@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shreyaprabhu28&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+</p>
+
+---
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
-
 ---
 
-⭐ Thanks for visiting my profile! ⭐
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
 
 </h3>
