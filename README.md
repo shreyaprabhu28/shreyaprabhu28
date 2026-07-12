@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Prabhu</h1>
 
-<h3 align="center">Java Full Stack Developer | DevOps Enthusiast | AWS Cloud Learner | Always learning new tecnologies</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+New+Technologies+🚀" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BB239E&center=true&vCenter=true&width=900&height=60&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;AWS+Cloud+Learner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ---
 
