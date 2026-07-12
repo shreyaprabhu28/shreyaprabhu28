@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4999&pause=1000&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!
+
 I am passionate about building scalable applications, automating deployments, and learning modern DevOps practices. I enjoy working with cloud technologies, CI/CD pipelines, containerization, and Java Full Stack development.
 
 ---
