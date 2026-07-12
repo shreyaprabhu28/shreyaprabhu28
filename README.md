@@ -24,7 +24,6 @@ I am passionate about building scalable applications, automating deployments, an
 **Languages**
 
 - Java
-- Python
 - SQL
 - HTML
 - CSS
@@ -91,8 +90,8 @@ Machine Learning project using
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shreya-prabhu28
+- Email: shreyaprabhu224@gmail.com 
 
 ---
 
