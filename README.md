@@ -1,16 +1,6 @@
 # Hi 👋, I'm Shreya Prabhu
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4999&pause=1000&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 Welcome to my GitHub profile!
 
@@ -104,5 +94,16 @@ Machine Learning project using
 - Email: shreyaprabhu224@gmail.com 
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyaprabhu28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shreyaprabhu28&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaprabhu28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ⭐ Thanks for visiting my profile!
