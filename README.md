@@ -24,15 +24,6 @@
 
 </p>
 
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreyaprabhu28&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
 ---
 
 # 🚀 Featured Projects
@@ -118,14 +109,6 @@
 <a href="mailto:shreyaprabhu224@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shreyaprabhu28&label=Profile%20Views&color=ff69b4&style=flat"/>
 
 </p>
 
