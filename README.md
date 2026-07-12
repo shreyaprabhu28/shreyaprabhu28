@@ -1,5 +1,5 @@
 # Hi 👋, I'm Shreya Prabhu
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4999&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Learner;Java+Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 ### 🚀 DevOps Engineer | Java Full Stack Developer | AWS Enthusiast
 
